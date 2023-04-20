@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "cp-la-request-button-spfx-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/CustomerProjectsLogicAppRequestButton/CustomerProjectsLogicAppRequestButtonWebPart.js",
+          "manifest": "./src/webparts/CustomerProjectsLogicAppRequestButton/CustomerProjectsLogicAppRequestButtonWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CustomerProjectsLogicAppRequestButtonWebPartStrings": "lib/webparts/CustomerProjectsLogicAppRequestButton/loc/{locale}.js"
+  }
+}

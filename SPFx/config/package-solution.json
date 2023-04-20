@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cp-la-request-button-spfx-client-side-solution",
+    "id": "2076b4b2-9059-47b3-9556-fd75926f6e4e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "cp-la-request-button-spfx description"
+      },
+      "longDescription": {
+        "default": "cp-la-request-button-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cp-la-request-button-spfx Feature",
+        "description": "The feature that activates elements of the cp-la-request-button-spfx solution.",
+        "id": "bc034261-084f-42f3-9906-587b9c5c438a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cp-la-request-button-spfx.sppkg"
+  }
+}

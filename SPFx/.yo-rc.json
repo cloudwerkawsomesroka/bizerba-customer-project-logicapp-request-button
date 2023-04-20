@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "cp-la-request-button-spfx",
+    "libraryId": "2076b4b2-9059-47b3-9556-fd75926f6e4e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "cp-la-request-button-spfx",
+    "solutionShortDescription": "cp-la-request-button-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
